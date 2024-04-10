@@ -57,11 +57,6 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ## DNS Enumeration:
 
 ## DNS Recon:
-provides the ability to perform:
-Check all NS records for zone transfers
-Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
-Perform common SRV Record Enumeration
-Top level domain expansion
 ![image](https://github.com/Priya-Loganathan/Enumeration/assets/121166075/d8fa0736-f69f-411d-94a2-3de88b3ea578)
 
 ## dnsenum
